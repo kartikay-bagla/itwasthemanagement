@@ -20,6 +20,14 @@ h5 {
     text-align: center;
 }
 
+h6 {
+    font-size: 15px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 600;
+    text-align: center;
+}
+
 .wordwrap-fix {
     -ms-word-break: break-all;
     word-break: break-all;
@@ -39,6 +47,9 @@ img {
     h5 {
         -ms-word-break: unset;
         word-break: unset;
+    }
+    h6 {
+        font-size: 20px;
     }
     .meme {
         padding-left: 20%;
