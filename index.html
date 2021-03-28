@@ -23,6 +23,8 @@
             font-variant: normal;
             font-weight: 600;
             text-align: center;
+            -ms-word-break: break-all;
+            word-break: break-all;
         }
 
         h5 {
@@ -31,7 +33,14 @@
             font-variant: normal;
             font-weight: 600;
             text-align: center;
+            -ms-word-break: break-all;
+            word-break: break-all;
         }
+
+        img {
+                max-width: 400px;
+                max-height: 400px;
+            }
 
         @media only screen and (min-width: 769px) {
             h1 {
@@ -48,9 +57,12 @@
             h1 {
                 font-size: 60px;
             }
+
+            img {
+                max-width: 600px;
+                max-height: 600px;
+            }
         }
-
-
 
         .meme {
             text-align: center;
@@ -79,11 +91,6 @@
 
         .hidden {
             display: none;
-        }
-
-        img {
-            max-width: 600px;
-            max-height: 600px;
         }
 
         a {
