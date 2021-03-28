@@ -1,0 +1,73 @@
+We're just a Google outage away from an IT shortage.
+Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it.
+https://xkcd.com/1319/
+https://xkcd.com/1205/
+The "S" in IoT stands for Security.
+We'll cross that bridge when it's on fire.
+We'll burn that bridge when we get to it.
+Kill that bird with two stones.
+If everything is on fire when you get to work, use fire to make coffee, then troubleshoot.
+Fast, Good, Cheap. Pick two - https://fastgood.cheap/
+It's a layer-8 issue.
+Everyone has a test environment. A few of us are lucky enough to also have production environments.
+"Provocative maintenance" - when the preventative maintenance causes the very outage you were trying to avoid.
+"Percussive maintenance", smacking the side of the PC to get it to work.
+There’s no test like Production.
+Users lie.
+Equipment that can't perform up to specs is replaced. Equipment that won't perform up to specs is abused until it will, or it can't.
+There's nothing as permanent as a temporary solution.
+"High impedance air gap" - When something is unplugged
+DevOops
+A fool with a tool is still a fool.
+Not my circus. Not my monkeys.
+The first 80% takes 80% of the time. The final 20% takes the other 80% of the time.
+"Please do the needful."
+A failure to plan on your part does not equate an emergency on my part.
+It worked once under optimum conditions, time for production.
+RTFM - read the f***ing manual.
+Just 'coz you can, don't mean you should.
+Jesus saves; and makes incremental backups.
+Is it definitely plugged in?
+If you make something idiot proof, they just build a better idiot.
+It's always DNS.
+https://isitdns.com
+It's always DNS, except when it isn't.
+"Hold on to your butts!"
+https://butt.holdings
+No good deed goes unpunished.
+It's a keyboard actuator issue.
+Read-only Friday.
+https://isitreadonlyfriday.com/
+I don’t do miracles the same way jesus doesn’t do IT
+"Meatware"; Usage: "Was the problem caused by hardware or software?" "Neither, it was the meatware."
+If it ain't broke, fix it till it is.
+https://img.ifunny.co/images/6e6bce5b2e1a47bd44d458f15aa01b54f20890af848f2abac74c258a9c18ef40_1.jpg
+https://i.imgur.com/S0I2y2K.png
+https://i.imgur.com/2bY9hT4.jpg
+ID10T error
+PEBKAC - Problem Exists Between Keyboard And Chair.
+Can’t fix stupid.
+It was a Code18. Meaning: Issue is 18" away from the monitor. 
+PICNIC - Problem In Chair, Not In Computer!
+You don't trip over boulders, but pebbles will kill you.
+'Should' is a dangerous word.
+Don't F*** With It Friday!
+It's not a crash, it's a dynamically scheduled maintenance opportunity.
+My magic is not black enough for what you are asking.
+What is it? Its a BOFM. Box of F**king Magic. 
+"Core application XYZ is run on IIS, SQL and PFM" (pure f***ing magic).
+Rebootion is the solution.
+Works on my machine.
+We're not happy until you're not happy.
+Java, write once, run scared!
+I had a problem, so I thought, "I'll use Java!". Now I have a ProblemFactory.
+This isn't burger king, you can't have it your way.
+TRS: Technician Radius Syndrome. The closer I get to an issue more likely it is to be resolved before I even get there.
+https://en.wikipedia.org/wiki/Pauli_effect
+Wishful planning: Any plan that assumes each part of the plan will go exactly as planned.
+Linux is user-friendly, it's just very picky about its friends.
+I work on Windows. My toolbox is Linux.
+Friends don't let friends run Windows.
+I can't do any of this until it is written down.
+It's working for me, the problem must be at your end.
+Worked in Dev, Ops problem now!
