@@ -117,8 +117,7 @@
                 return response.text();
             }).then(function (text) {
                 let data = text.split("\n");
-                // let textString = data[Math.floor((Math.random() * data.length))];
-                let textString = "https://img.ifunny.co/images/6e6bce5b2e1a47bd44d458f15aa01b54f20890af848f2abac74c258a9c18ef40_1.jpg";
+                let textString = data[Math.floor((Math.random() * data.length))];
                 let imgCheck = textString.split(".")
                 imgCheck = imgCheck[imgCheck.length - 1]
                 let isImage = false;
