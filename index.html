@@ -23,8 +23,6 @@
             font-variant: normal;
             font-weight: 600;
             text-align: center;
-            -ms-word-break: break-all;
-            word-break: break-all;
         }
 
         h5 {
@@ -33,6 +31,9 @@
             font-variant: normal;
             font-weight: 600;
             text-align: center;
+        }
+
+        .wordwrap-fix {
             -ms-word-break: break-all;
             word-break: break-all;
         }
@@ -153,6 +154,7 @@
                     let imageElement = document.getElementById("image");
                     let subtitle = document.getElementById("subtitle");
                     subtitle.innerHTML = "<a href=" + textString + ">" + textString + "</a>";
+                    subtitle.classList.add("wordwrap-fix");
                     subtitle.classList.remove("hidden");
                     imageElement.setAttribute("src", textString);
                     imageElement.classList.remove("hidden");
@@ -160,6 +162,7 @@
                     let textElement = document.getElementById("text");
                     if (textString.slice(0, 4) == "http") {
                         textElement.innerHTML = "<a href=" + textString + ">" + textString + "</a>";
+                        textElement.classList.add("wordwrap-fix");
                     } else {
                         textElement.innerHTML = textString;
                     }
