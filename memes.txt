@@ -71,3 +71,39 @@ Friends don't let friends run Windows.
 I can't do any of this until it is written down.
 It's working for me, the problem must be at your end.
 Worked in Dev, Ops problem now!
+"Just give the the credentials to your public DNS, we will add the records for you!" 
+Woah, woah, woah. Are you trying to tell me that there's more to being a 'cloud engineer' than spewing buzzwords like the turboencabulator?
+Nobody gives a shit about your data except you. Plan accordingly.
+Nothing's impossible to the person who doesn't have to do the work.
+Prioritize. Plan. Execute.
+If you need to let a tree burn to save the forest, you let that tree burn.
+First time you volunteer. Second time it's expected.
+If you want immediate feedback, always make changes in production.
+When you try to teach them to fish, they become upset, because you are very clearly communicating to them that you will not be handing them a fish every day.
+This place is like a whore house. The better you are at your job, the more you get fucked!
+The four D's of IT: Deny, Deflect, Defend, Dismiss
+"Why do things right when you can do them now"
+"That's why it's a project plan not a project thought"
+The reward for hard work, is more hard work.
+It is more complicated than you think.
+For all resources, whatever it is, you need more.
+One size never fits all.
+It's not DNS. There's no way it's DNS. It was DNS.
+Kings Law: "A sysadmin either works smart or constantly."
+"Repeat after me: email is not instant messenger."
+"In theory there is no difference between theory and practice. In practice there is."
+If the client well and truly wants to shoot themselves in the foot sometimes you just have to hand them the gun.
+Perfect is the enemy of done.
+Better is the enemy of good enough.
+Maybe one day I'll suffer enough brain damage to become management.
+"If it has a wire, it's IT" - Your average user.
+Always remember the 6 Ps: Proper Preparation Prevents Piss-Poor Performance.
+Weeks of programming can save you hours of planning.
+Pay special attention to what you cannot make backups of. 
+I'll take that with a grain of salt... and a shot of tequila with a lime.
+Datacenters are like nursing homes. When you turn out the lights, you can't really expect everyone to wake up in the morning.
+"The problem is not the problem. The problem is your attitude about the problem" - Captain Jack Sparrow
+"There's never enough time to do it right, but there's always enough time to do it over."
+Good judgement comes from experience. Experience comes from bad judgement.
+"Security and convenience rarely walk hand-in-hand"
+People lie, numbers don't. 
