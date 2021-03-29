@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 35px;
     font-style: normal;
     font-variant: normal;
     font-weight: 600;
@@ -40,7 +40,7 @@ img {
 
 @media only screen and (min-width: 769px) {
     h1 {
-        font-size: 80px;
+        font-size: 70px;
         -ms-word-break: unset;
         word-break: unset;
     }
@@ -59,7 +59,7 @@ img {
 
 @media only screen and (min-width: 600px) {
     h1 {
-        font-size: 60px;
+        font-size: 50px;
         -ms-word-break: unset;
         word-break: unset;
     }
