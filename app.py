@@ -1,5 +1,5 @@
 import random
-from flask import Flask, jsonify, redirect
+from flask import Flask, jsonify
 
 DEBUG = False
 
@@ -7,7 +7,6 @@ app = Flask(__name__)
 if DEBUG:
     from flask_cors import CORS
     CORS(app)
-
 
 with open("memes.txt") as f:
     FILE_CONTENTS = [i.strip() for i in f.readlines()]
