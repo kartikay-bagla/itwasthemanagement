@@ -1,11 +1,10 @@
-from logging import debug
 import random
 from flask import Flask, jsonify, redirect
 
 DEBUG = False
 
 app = Flask(__name__)
-if debug:
+if DEBUG:
     from flask_cors import CORS
     CORS(app)
 
