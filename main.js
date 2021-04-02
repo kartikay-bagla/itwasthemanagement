@@ -1,5 +1,10 @@
-let imageExtensions = ["png", "jpg", "jpeg", "webp", "gif"]
-let server_location = "http://localhost:5000"
+let imageExtensions = ["png", "jpg", "jpeg", "webp", "gif"];
+let server_location = "https://api.itwasthe.management";
+const DEBUG = false;
+
+if (DEBUG) {
+    server_location = "http://localhost:5000"
+}
 
 function update_page(textString) {
     let imgCheck = textString.split(".");
