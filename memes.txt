@@ -12,7 +12,7 @@ It's a layer-8 issue.
 Everyone has a test environment. A few of us are lucky enough to also have production environments.
 "Provocative maintenance" - when the preventative maintenance causes the very outage you were trying to avoid.
 "Percussive maintenance", smacking the side of the PC to get it to work.
-There’s no test like Production.
+There's no test like Production.
 Users lie.
 Equipment that can't perform up to specs is replaced. Equipment that won't perform up to specs is abused until it will, or it can't.
 There's nothing as permanent as a temporary solution.
@@ -38,7 +38,7 @@ No good deed goes unpunished.
 It's a keyboard actuator issue.
 Read-only Friday.
 https://isitreadonlyfriday.com/
-I don’t do miracles the same way jesus doesn’t do IT
+I don't do miracles the same way jesus doesn't do IT
 "Meatware"; Usage: "Was the problem caused by hardware or software?" "Neither, it was the meatware."
 If it ain't broke, fix it till it is.
 https://img.ifunny.co/images/6e6bce5b2e1a47bd44d458f15aa01b54f20890af848f2abac74c258a9c18ef40_1.jpg
@@ -46,7 +46,7 @@ https://i.imgur.com/S0I2y2K.png
 https://i.imgur.com/2bY9hT4.jpg
 ID10T error
 PEBKAC - Problem Exists Between Keyboard And Chair.
-Can’t fix stupid.
+Can't fix stupid.
 It was a Code18. Meaning: Issue is 18" away from the monitor. 
 PICNIC - Problem In Chair, Not In Computer!
 You don't trip over boulders, but pebbles will kill you.
