@@ -80,6 +80,7 @@ function load_page() {
     let refresh_button = document.getElementById("refresh");
     refresh_button.onclick = function (event) {
         event.preventDefault();
+        analytics.track("Loaded New Quote");
         get_home_data();
     }
 
